@@ -33,14 +33,9 @@
   
   Rajiv Gandhi Proudyogiki Vishwavidyalaya
   
-  Percentage: 75%
+  ##### Percentage: 75%
   
-#### Intermediate
-  
-  
-#### School
-  
-  
+
 
 ---
 ### Personal
