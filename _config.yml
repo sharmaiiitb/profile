@@ -1,6 +1,17 @@
-title: Pankaj Sharma
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Pankaj Sharma </p>
+logo: /assets/img/pklogo.png
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/........../">LinkedIn</a> |
+  <a href="https://github.com/sharmaiiitb">GitHub</a>
+  
+  <br>   
+  I am  working as a Self Employed  on Digital Marketing , Affliate Marketting  from more than 6 yrs  
+  and also Working as System Analyst from more than 6 yrs.
+  Pursuing Executive Post Graduate Programme in Machine Learning & AI from IIIT Bangalore.
+  
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
