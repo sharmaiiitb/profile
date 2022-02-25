@@ -34,7 +34,7 @@ NCC " C " Certificate
   
   Rajiv Gandhi Proudyogiki Vishwavidyalaya
   
-  ##### Percentage: 75%
+   Percentage: 75%
   
 
 
