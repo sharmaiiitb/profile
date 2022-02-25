@@ -30,7 +30,7 @@ NCC " C " Certificate
   
   International Institute of Information Technology, Bangalore (IIIT-B)
   
-#### Degree
+#### Graduation in Electrical and Electronics Engineering
   
   Rajiv Gandhi Proudyogiki Vishwavidyalaya
   
