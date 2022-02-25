@@ -1,4 +1,4 @@
-# Analyst Portfolio
+# System Analyst Portfolio
 
 ## Experience
 
@@ -19,7 +19,7 @@
 
 
 ---
-### Achievements:
+### Achievements
 
 
 ---
@@ -48,7 +48,7 @@
   <strong>Interests:</strong>Internet Surfing, Reading <br>
   <strong>Location:</strong> Bhopal, India<br>
   <strong>Email:</strong> email<br>
-  <strong>Contact Number:</strong> mo number</p>
+  <strong>Contact Number:</strong> mob number</p>
 
 ```
 
