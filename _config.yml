@@ -5,14 +5,20 @@ description:
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/........../">LinkedIn</a> |
   <a href="https://github.com/sharmaiiitb">GitHub</a>
-  
-  <br>   
+  </p>
+  <br>
+  <p> 
   
   I am  working as a Self Employed  on Digital Marketing , Affliate Marketting  from more than 6 yrs  
   and also Working as System Analyst from more than 6 yrs.
-  Pursuing Executive Post Graduate Programme in Machine Learning & AI from IIIT Bangalore.
-  
   <br>
-  </p>
+  Pursuing Executive Post Graduate Programme in Machine Learning & AI from IIIT Bangalore.
+   </p>
+  <!--<footer>
+        
+        <p>This project is maintained by <a href="https://github.com/sharmaiiitb">sharmaiiitb</a></p>
+        
+        <p><small>Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>-->
 
 theme: jekyll-theme-minimal
